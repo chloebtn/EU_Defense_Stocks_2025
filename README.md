@@ -36,7 +36,7 @@ During the period of the Analysis (March 2023 to March 2025), several factors in
 *The growth of European defense stocks can be partly attributed to their focus on emerging technologies. The analyzed companies have made significant investments in areas such as AI, cybersecurity, and autonomous systems, which are becoming increasingly crucial in modern defense strategies*
 
 ## Normalized Returns (Last 6 Months)
-![Normalized Cumul 6 Months](image-1.png)
+![Normalized Cumul Returns 6 Months](image-1.png)
 
 **1. Divergence**
 

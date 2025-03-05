@@ -28,7 +28,7 @@ plt.title("Cumulatitive Returns of Defense Stocks")
 plt.xlabel("Date")
 plt.xticks(rotation=45)
 plt.ylabel("Cumulative Returns")
-plt.legend(bbox_to_anchor=(1.05, 1), loc='upper left')
+plt.legend(loc='upper left')
 plt.show()
 
 cumulative_ret_6_months = cumulative_returns.loc[cumulative_returns.index >= cumulative_returns.index[-1] - pd.DateOffset(months=6)]
@@ -40,7 +40,7 @@ plt.title("Normalized Cumulatitive Returns of Defense Stocks (Last 6 Months)")
 plt.xlabel("Date")
 plt.xticks(rotation=45)
 plt.ylabel("Cumulative Returns")
-plt.legend(bbox_to_anchor=(1.05, 1), loc='upper left')
+plt.legend(loc='upper left')
 plt.show()
 
 
