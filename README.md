@@ -23,7 +23,7 @@ During the period of the Analysis (March 2023 to March 2025), several factors in
 
 # Analysis
 ## Cumulative Returns Analysis
-![Cumulative Returns](image.png) 
+https://github.com/chloebtn/EU_Defense_Stocks_2025/blob/main/images/image.png
 
 **Overall Trend:** European defense stocks show significant growth, especially in the last few months, aligning with the increased defense spending and heightened geopolitical tensions.
 
