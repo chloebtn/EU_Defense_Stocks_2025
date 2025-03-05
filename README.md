@@ -33,6 +33,8 @@ During the period of the Analysis (March 2023 to March 2025), several factors in
 
 **Lockheed Martin:** The American stock shows more modest growth compared to its European counterparts, and some decline in recent months.
 
+*The growth of European defense stocks can be partly attributed to their focus on emerging technologies. The analyzed companies have made significant investments in areas such as AI, cybersecurity, and autonomous systems, which are becoming increasingly crucial in modern defense strategies*
+
 ## Normalized Returns (Last 6 Months)
 ![Normalized Cumul 6 Months](image-1.png)
 
@@ -108,6 +110,8 @@ Low  correlation with European stocks highlighting distinct market dynamics due 
 * **Largest Drawdown:** Lockheed Martin (6.27%) tied to reduced European contracts and shifting US priorities
 * **Smallest Drawdown:** Rheinmetall (2.23%) showing resilience amid geopolitical instability.
 
+*Note that while European defense stocks are currently outperforming, the long-term sustainability of this trend depends on several factors. These include the ability of European countries to maintain increased defense spending in the face of potential economic constraints, and the impact of supply chain challenges.*
+
 ## Monte Carlo Simulation and Value at Risk 95
 ![Monte Carlo](image-4.png)
 
@@ -127,4 +131,5 @@ Value at Risk (95% confidence) :
 1. Monitor geopolitical developments and defense policy shifts in Europe and the US.
 2. Track implementation of European Defense Fund and its impact.
 3. Lookout for emerging technologies in defense (AI, autonomous systems etc.).
-4. Stay informed on cross-border collaborations in Europe.
+4. Stay informed on cross-border collaborations in Europe and potential supply chain challenges.
+5. Assess the long-term sustainability of increased European defense spending.
