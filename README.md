@@ -57,7 +57,7 @@ The decrease in Lockheed Martin's stock could be due to:
 * Changes in US defense spending or policies
 * Specific company issues or contract losses
 
-➡ Clear shift towards European defense companies, possibly indicating a long-term trend of increased European investments in domestic defense capabilities. The sudden rise in recent months suggests that investors are anticipating sustained growth in the European defense sector.
+Clear shift towards European defense companies, possibly indicating a long-term trend of increased European investments in domestic defense capabilities. The sudden rise in recent months suggests that investors are anticipating sustained growth in the European defense sector.
 
 ## Correlation Analysis
 ![Correlation Matrix](image-2.png)
