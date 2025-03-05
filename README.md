@@ -1,4 +1,4 @@
-# Defense_stock_EUvsUS_MAR2025
+# European Defense Surge: Comparative Analysis of EU vs US Defense Stocks (Early 2025) 
 
 ## Context
 During the period of the Analysis (March 2023 to March 2025), several factors influenced the defense sector:
