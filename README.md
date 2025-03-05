@@ -23,7 +23,7 @@ During the period of the Analysis (March 2023 to March 2025), several factors in
 
 # Analysis
 ## Cumulative Returns Analysis
-![image](https://github.com/user-attachments/assets/37630172-f50d-4737-be48-2dfc3e1bd014)
+![image](https://github.com/user-attachments/assets/4e80937e-4af3-4928-b533-31c3e426c314)
 
 **Overall Trend:** European defense stocks show significant growth, especially in the last few months, aligning with the increased defense spending and heightened geopolitical tensions.
 
@@ -36,7 +36,7 @@ During the period of the Analysis (March 2023 to March 2025), several factors in
 *The growth of European defense stocks can be partly attributed to their focus on emerging technologies. The analyzed companies have made significant investments in areas such as AI, cybersecurity, and autonomous systems, which are becoming increasingly crucial in modern defense strategies*
 
 ## Normalized Returns (Last 6 Months)
-![Normalized Cumul Returns 6 Months](image-1.png)
+![image](https://github.com/user-attachments/assets/33149bbc-9a30-4374-a9fa-96731a0b345f)
 
 **1. Divergence**
 
@@ -62,7 +62,7 @@ The decrease in Lockheed Martin's stock could be due to:
 Clear shift towards European defense companies, possibly indicating a long-term trend of increased European investments in domestic defense capabilities. The sudden rise in recent months suggests that investors are anticipating sustained growth in the European defense sector.
 
 ## Correlation Analysis
-![Correlation Matrix](image-2.png)
+![image](https://github.com/user-attachments/assets/0662d034-4273-481c-82ff-ded6a7e62395)
 
 **1. European Stock Clustering**
 
@@ -78,7 +78,7 @@ Chemring's relatively lower correlations with other Europeans stocks indicate th
 Low  correlation with European stocks highlighting distinct market dynamics due to different geopolitical factors, US-centric defense policies, and reliance on US government contracts.
 
 ## Performance Metrics Analysis
-![Performance Metrics](image-3.png)
+![image](https://github.com/user-attachments/assets/267514e4-c864-49be-979e-5a6bbb811752)
 
 #### Annualized Return
 
@@ -113,13 +113,12 @@ Low  correlation with European stocks highlighting distinct market dynamics due 
 *Note that while European defense stocks are currently outperforming, the long-term sustainability of this trend depends on several factors. These include the ability of European countries to maintain increased defense spending in the face of potential economic constraints, and the impact of supply chain challenges.*
 
 ## Monte Carlo Simulation and Value at Risk 95
-![Monte Carlo](image-4.png)
+![image](https://github.com/user-attachments/assets/170b7710-c548-465a-882d-840e55c64a98)
 
 *Note: The VaR is calculated based on the simulated future prices a year from now*
 
 Value at Risk (95% confidence) :
-
-![VaR](image-6.png)
+![image](https://github.com/user-attachments/assets/21bac8f6-383b-4bc2-b021-99277d64525b)
 
 * **Riskiest Stock:** Rheinmetall, reflecting significant exposure to geopolitical tensions and defense spending surges, which Rheinmetall is depending on.
 
